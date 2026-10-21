@@ -1,4 +1,3 @@
-**BLUF:** The main remaining considerations are repository governance, safety controls, testing, and preventing accidental disclosure. Keep the first release small: script, README, `.gitignore`, and basic review/security settings.
 
 ## Recommended before first release
 
